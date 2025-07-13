@@ -42,17 +42,6 @@ O projeto foi dividido em etapas organizadas no notebook, seguindo boas prática
 
 ---
 
-## 📊 Avaliação dos Modelos
-
-| Modelo               | Acurácia | Precisão | Recall | F1-Score |
-|----------------------|----------|----------|--------|----------|
-| Regressão Logística  | X%       | X%       | X%     | X%       |
-| Random Forest        | X%       | X%       | X%     | X%       |
-
-*(Substitua pelos seus resultados reais)*
-
----
-
 ## 💡 Recomendação Estratégica
 
 - Oferecer vantagens para novos clientes nos primeiros meses.
